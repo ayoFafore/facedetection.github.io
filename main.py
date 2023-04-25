@@ -1,5 +1,6 @@
 # Importing Required Libraries
 import streamlit as st
+from utils import get_detection
 import io
 from PIL import Image
 import numpy as np

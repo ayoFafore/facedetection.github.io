@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 # MBZUAI Logo
-st.image('./MBZUAI_Logo.jpeg')
+# st.image('./MBZUAI_Logo.jpeg')
 
 # Web Page Title
 st.title("Face and Object Detection")
